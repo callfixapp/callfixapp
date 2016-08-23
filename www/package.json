@@ -1,0 +1,8 @@
+{
+  "title": "Callfix",
+  "description": "Callfix App",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "1.0"
+  }
+}
