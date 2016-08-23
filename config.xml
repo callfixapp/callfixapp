@@ -1,10 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<widget id="com.callfix.app" version="1.1">
+<?xml version='1.9.0' encoding='utf-8'?>
+<widget id="com.callfix.app" version="1.0">
   <name>Callfix</name>
   <description>
   </description>
   <author email="callfixapp@gmail.com">
-    CallfixApp Developers
+    Callfix Developers
   </author>
   <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <style name="Theme.Sandbox" parent="@style/Theme.Tabris.Light.DarkActionBar">
